@@ -1,0 +1,25 @@
+Serviço: Depilação  Cliente: leticia garcia  Telefone:35 998633799  E-mail: letici.giovana@gmail.com
+
+Serviço: Manicure  Cliente: leticia garcia  Telefone:35 998633799  E-mail: letici.giovana@gmail.com
+
+Serviço: Cabelereira  Cliente: leticia garcia  Telefone:35 998633799  E-mail: letici.giovana@gmail.com
+
+Serviço: teste  Cliente: julia de freitas  Telefone:(35)991545101  E-mail: julia.carvalho@gec.inatel.br
+
+Serviço: Cabelereira  Cliente: Ana Grell  Telefone:96999876543  E-mail: ana@gmail.com
+
+Serviço: Depilação  Cliente: Ana Grell  Telefone:96999876543  E-mail: ana@gmail.com
+
+Serviço: Manicure  Cliente: Leticia Garcia  Telefone:(35) 99863-3799  E-mail: leticia@gmail.com
+
+Serviço: Depilação  Cliente: Leticia Garcia  Telefone:(35) 99863-3799  E-mail: leticia@gmail.com
+
+Serviço: Cabelereira  Cliente: Leticia Garcia  Telefone:(35) 99863-3799  E-mail: leticia@gmail.com
+
+
+Serviço: Cabelereira  Cliente: Chris  Telefone:(35)99981-5390  E-mail: christopher@inatel.br
+
+Serviço: Cabelereira  Cliente: Chris  Telefone:(35)99981-5390  E-mail: christopher@inatel.br
+
+Serviço: Manicure  Cliente: Chris  Telefone:(35)99981-5390  E-mail: christopher@inatel.br
+
